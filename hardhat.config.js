@@ -20,7 +20,7 @@ module.exports = {
   networks: {
     hardhat: {
       forking: {
-        url: "https://rpc.ankr.com/eth",
+        url: " https://eth-mainnet.g.alchemy.com/v2/IUqFhgn6XZXIEdC3Z-shzX6RqmZ0U7VG",
       },
     },
   },
